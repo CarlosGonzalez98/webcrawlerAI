@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "playwright": "^1.52.0",
+    "pnpm": "^10.11.0"
+  },
+  "scripts": {
+    "pw:install": "playwright install"
+  },
+  "dependencies": {
+    "git": "^0.1.5",
+    "gradio": "^0.1.0"
+  }
+}
