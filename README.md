@@ -1,3 +1,29 @@
+---
+title: WebCrawler
+emoji: 🕷️
+colorFrom: indigo
+colorTo: blue
+sdk: gradio
+sdk_version: 4.16.0
+app_file: app.py
+pinned: false
+---
+
+# WebCrawler
+
+A browser automation and research tool powered by OpenAI and Gradio.
+
+## Usage
+
+- Enter your OpenAI API key in the Space secrets.
+- Use the web UI to run research tasks.
+
+## Features
+
+- Automated browser research
+- PDF-like report generation
+- OpenAI LLM integration
+
 <img src="./assets/web-ui.png" alt="Browser Use Web UI" width="full"/>
 
 <br/>
